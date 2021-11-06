@@ -1,1 +1,15 @@
 Student gita = new Student("Gita", 23412345);
+Course computing = new Course("BTG1", "BSc Computing");
+gita.enrol(computing);
+humza.enrol(computing);
+humza.print();
+ Student ID: 21098765 Name: Humza Akbar
+gita.print();
+ Student ID: 23412345 Name: Gita
+humza.printCourse();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BTG1: BSc Computing
+
