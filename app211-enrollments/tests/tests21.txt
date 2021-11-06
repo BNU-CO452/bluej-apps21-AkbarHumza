@@ -13,3 +13,4 @@ humza.printCourse();
 
  Course Code: BTG1: BSc Computing
 
+Module c0452 = new Module();
